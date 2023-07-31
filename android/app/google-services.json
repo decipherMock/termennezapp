@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "874903449042",
+    "firebase_url": "https://house-master-47f45.firebaseio.com",
+    "project_id": "house-master-47f45",
+    "storage_bucket": "house-master-47f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874903449042:android:ea62820d0624d648592c0b",
+        "android_client_info": {
+          "package_name": "com.app.tenementz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78Rp7W0bdoIsCOLl47KjbPFiS-M1hJ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874903449042-t6sjm9c64ftrs63n9g914ode2ahnqtik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.woodacres.tenementz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
